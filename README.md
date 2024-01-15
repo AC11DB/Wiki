@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AC11DB
+- 👋 Hi, I’m Angelica Cadiz
 - 👀 I’m interested in finding comfort
 - 🌱 I’m currently learning database web integration
 - 💞️ I’m looking to collaborate on true friendship
